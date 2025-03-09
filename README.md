@@ -22,6 +22,8 @@ Regional Sales Performance: Identifying the best-performing regions.
 ✅ Regional Sales Trends – Analyze performance across different regions.
 ✅ Dynamic Filters & Drilldowns – Explore insights at different levels of detail.
 
+![Image](https://github.com/user-attachments/assets/2c42ebda-008b-49d4-8473-a841a569dde6)
+
 🛠️ Tools Used
 Power BI for data visualization
 Excel / SQL for data processing (if applicable)
